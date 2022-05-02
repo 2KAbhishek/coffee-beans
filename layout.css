@@ -37,3 +37,8 @@ nav a {
   text-transform: uppercase;
   font-weight: bold;
 }
+
+nav a:hover {
+  background-color: burlywood;
+  color: chocolate;
+}
