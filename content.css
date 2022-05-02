@@ -18,10 +18,3 @@ article {
   margin-bottom: 20px;
 }
 
-body {
-  background-image: url("./images/coffee.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
-  overflow: hidden;
-}
