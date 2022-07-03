@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
+<h3>Finest fictional coffee beans ☕🫘</h3>
 
 <figure>
   <img src= "images/screenshot.jpg" alt="coffee-beans screenshot" style="width:100%">
@@ -35,13 +35,7 @@
 
 ## What is this
 
-coffee-beans is a web app that allows `<insert_target_audience>` to `<action/task_it_does>`.
-
-Tired of the hundreds of tools for building a website?
-
-Want to build good ol web pages with `HTML` `CSS` & `JavaScript`?
-
-You can of course do that, coffee-beans just makes it quicker, let your digital paintbrush loose and make something tiny.
+A website for a fictional coffee beans maker.
 
 ## Inspiration
 
@@ -68,26 +62,7 @@ Open `index.html` in your favorite browser or visit [2kabhishek.github.io/coffee
 
 ## How it was built
 
-coffee-beans was built using `HTML` `CSS` & `JavaScript`.
-
-## Challenges faced
-
-While building coffee-beans the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building coffee-beans I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Finish it
+coffee-beans was built using `VS Code`.
 
 Hit the ⭐ button if you found this useful.
 
