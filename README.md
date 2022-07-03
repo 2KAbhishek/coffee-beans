@@ -39,13 +39,13 @@ A website for a fictional coffee beans maker.
 
 ## Inspiration
 
-coffee-beans was inspired by `<reason/idea>`.
+Wanted to write some old skool `HTML`
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `any web browser`
 
 ## Getting coffee-beans
 
